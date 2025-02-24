@@ -3,3 +3,6 @@ This project aims to analyze and visualize brain imaging data to identify patter
 
 heyy helloo
 Elena and Asli
+
+## contributors
+- Elena
